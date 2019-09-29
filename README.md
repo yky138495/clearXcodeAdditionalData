@@ -1,0 +1,2 @@
+# clearXcodeAdditionalData
+清理xcode生成的额外数据，释放你的mac电脑空间
